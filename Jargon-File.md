@@ -92,6 +92,8 @@
 
 **SO**: Significant Other.
 
+**STFW**: Search The F-cking Web
+
 **TARFU**: Things Are Really F-cked Up.
 
 **TIFU**: Today I F-cked Up.
