@@ -1,4 +1,4 @@
-# NT-Lists Subscription Information
+# List Subscription Information
 
 ### [ntsysadmin]
 A support group for Microsoft Windows System Administration issues, and related network administration topics:
