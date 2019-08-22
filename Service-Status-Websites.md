@@ -13,7 +13,7 @@
 | Cloudflare                | https://www.cloudflarestatus.com                          |
 | DigitalOcean              | https://status.digitalocean.com                           |
 | Discord                   | https://status.discordapp.com                             |
-| Dropbox                   | https://status.dropbox.com/                               |
+| Dropbox                   | https://status.dropbox.com                                |
 | GitHub                    | https://www.githubstatus.com                              |
 | Google Cloud              | https://status.cloud.google.com                           |
 | Google G Suite            | https://www.google.com/appsstatus                         |
