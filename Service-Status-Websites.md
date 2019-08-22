@@ -20,14 +20,14 @@
 | Heroku                    | https://status.heroku.com                                 |
 | KeyCDN                    | https://status.keycdn.com                                 |
 | Microsoft 365             | https://portal.office.com/servicestatus                   |
-| Microsoft Azure           | https://status.azure.com/en-us/status                     |
+| Microsoft Azure           | https://status.azure.com                                  |
 | Playstation Network       | https://status.playstation.com                            |
 | Plex                      | https://status.plex.tv                                    |
 | Rackspace                 | https://rackspace.service-now.com/system_status           |
 | Salesforce                | https://status.salesforce.com                             |
 | Slack                     | https://status.slack.com                                  |
 | Symantec                  | https://status.symantec.com                               |
-| Xbox Live                 | https://support.xbox.com/en-US/xbox-live-status           |
+| Xbox Live                 | https://support.xbox.com/xbox-live-status                 |
 
 ### Status Monitoring Services
 
