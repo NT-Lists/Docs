@@ -28,6 +28,7 @@
 | Slack                     | https://status.slack.com                                  |
 | Symantec                  | https://status.symantec.com                               |
 | Synology                  | https://www.synology.com/support/synology_service         |
+| Webroot                   | https://status.webroot.com                                |
 | Xbox Live                 | https://support.xbox.com/xbox-live-status                 |
 
 ### Status Monitoring Services
