@@ -48,4 +48,5 @@
 | Uptime Robot ($!)             | https://uptimerobot.com                                   |
 
 $ = Subscription fee-based service
+
 ! = Free services available
