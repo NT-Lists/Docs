@@ -8,7 +8,7 @@
 
 **AMA**: Ask Me Anything - meaning an invitation to ask the person a freeform series of questions.
 
-**BOFH**: Bastard Operator From Hell
+**BOFH**: [Bastard Operator From Hell](http://www.bofharchive.com/)
 
 **CCW**: Comments and Criticism Welcome or Constructive Criticism Welcome - meaning an invitation to critique the persons work for improvement purposes.
 
