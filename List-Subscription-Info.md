@@ -38,3 +38,4 @@ A long standing support group for multi-platform patchmanagement issues:
 - subscribe: [patchmanagement+subscribe@googlegroups.com](mailto:patchmanagement+subscribe@googlegroups.com?subject=subscribe)
 - unsubscribe: [patchmanagement+unsubscribe@googlegroups.com](mailto:patchmanagement+unsubscribe@googlegroups.com?subject=unsubscribe)
 - web forum: [patchmanagement](https://groups.google.com/d/forum/patchmanagement) @ Google Groups
+- website: http://patchmanagement.org
