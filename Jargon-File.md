@@ -60,6 +60,8 @@
 
 **J** represents the smiley face emoticon emoji in the Wingdings font family. If you don't have Wingdings installed, or the font formatting is otherwise lost, a capital J will be present in the text.
 
+**J/K**: Just Kidding or otherwise joking
+
 **LOL**: Laugh Out Loud
 
 **Lurker** is a user who reads posted content but rarely or never makes public posts or replies.
