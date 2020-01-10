@@ -7,6 +7,7 @@
 | Akamai                        | https://www.akamai.com/us/en/resources/visualizing-akamai |
 | Amazon Web Services           | https://status.aws.amazon.com                             |
 | Apple                         | https://www.apple.com/support/systemstatus                |
+| Bethesda                      | https://bethesda.net/en/status                            |
 | Box                           | https://status.box.com                                    |
 | cdnjs                         | https://status.cdnjs.com                                  |
 | Cisco Umbrella                | https://status.umbrella.com                               |
