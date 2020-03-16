@@ -24,13 +24,13 @@ A support group for Microsoft PowerShell scripting issues, and related network a
 - unsubscribe: [ntpowershell+unsubscribe@googlegroups.com](mailto:ntpowershell+unsubscribe@googlegroups.com?subject=unsubscribe)
 - web forum: [ntpowershell](https://groups.google.com/d/forum/ntpowershell) @ Google Groups
 
-## Additional NT-Lists Resources:
+### Additional NT-Lists Resources:
 
-### Discord
+#### Discord
 An audio chat server with corresponding channels for each list can be joined with this invite:
 - https://discord.gg/sGByAhw
 
-## Other Lists Subscription Information
+## Other Lists and Resources
 
 ### [patchmanagement]
 
@@ -39,3 +39,13 @@ A long standing support group for multi-platform patchmanagement issues:
 - unsubscribe: [patchmanagement+unsubscribe@googlegroups.com](mailto:patchmanagement+unsubscribe@googlegroups.com?subject=unsubscribe)
 - web forum: [patchmanagement](https://groups.google.com/d/forum/patchmanagement) @ Google Groups
 - website: http://patchmanagement.org
+
+### Spiceworks
+
+A long standing IT support group and community:
+
+- https://www.spiceworks.com/
+
+### Reddit subreddits
+
+- https://www.reddit.com/r/sysadmin/
