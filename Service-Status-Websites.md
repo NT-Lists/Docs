@@ -26,6 +26,7 @@
 | Playstation Network           | https://status.playstation.com                            |
 | Plex                          | https://status.plex.tv                                    |
 | Rackspace                     | https://rackspace.service-now.com/system_status           |
+| Reddit                        | https://www.redditstatus.com/                             |
 | Salesforce                    | https://status.salesforce.com                             |
 | Slack                         | https://status.slack.com                                  |
 | Symantec                      | https://status.symantec.com                               |
