@@ -21,6 +21,7 @@
 | Google G Suite                | https://www.google.com/appsstatus                         |
 | Heroku                        | https://status.heroku.com                                 |
 | KeyCDN                        | https://status.keycdn.com                                 |
+| Let's Encrypt                 | https://letsencrypt.status.io                             |
 | Microsoft 365                 | https://portal.office.com/servicestatus                   |
 | Microsoft Azure               | https://status.azure.com                                  |
 | Playstation Network           | https://status.playstation.com                            |
