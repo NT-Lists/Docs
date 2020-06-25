@@ -42,6 +42,8 @@
 
 **HMB**: Hold My Beer - meaning that the person is probably going to try something knowingly foolish or troublesome.
 
+**h/t**: See, "Hat-tip".
+
 **HTH**: Hope This Helps.
 
 **Hugged to Death**: A website or service that is inaccessible due to overwhelming traffic coming from a wave of current interest.
