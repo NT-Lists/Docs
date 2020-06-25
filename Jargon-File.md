@@ -42,7 +42,7 @@
 
 **HMB**: Hold My Beer - meaning that the person is probably going to try something knowingly foolish or troublesome.
 
-**h/t**: See, "Hat-tip".
+**H/T**: See, "Hat-tip".
 
 **HTH**: Hope This Helps.
 
