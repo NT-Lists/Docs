@@ -1,5 +1,34 @@
 # Important Request for Comments (RFCs)
 
+## Internet Standards
+
+| Orig | RFC  | Obs. | Updt | Description                                      |
+|:----:|-----:|-----:|:----:|:-------------------------------------------------|
+| 1981 |  791 |      |      | [Internet Protocol](https://tools.ietf.org/html/rfc791) |
+| 1981 | 3232 | 1700 | 2002 | [Assigned Numbers: RFC 1700 is Replaced by an On-line Database](https://tools.ietf.org/html/rfc3232) |
+| 1991 | 1180 |      |      | [A TCP/IP Tutorial](https://tools.ietf.org/html/rfc1180)
+| 1995 | 8200 | 2460 | 2017 | [Internet Protocol, Version 6 (IPv6) Specification](https://tools.ietf.org/html/rfc8200)
+| 1996 | 1918 |      |      | [Address Allocation for Private Internets](https://tools.ietf.org/html/rfc1918) |
+| 2005 | 4193 |      |      | [Unique Local IPv6 Unicast Addresses](https://tools.ietf.org/html/rfc4193) |
+| 2006 | 4291 |      |      | [IP Version 6 Addressing Architecture](https://tools.ietf.org/html/rfc4291) |
+| 2012 | 6598 |      |      | [IANA-Reserved IPv4 Prefix for Shared Address Space](https://tools.ietf.org/html/rfc6598) |
+
+| Orig | RFC  | Obs. | Updt | Description                                      |
+|:----:|-----:|-----:|:----:|:-------------------------------------------------|
+| 1989 | 1122 |      |      | [Requirements for Internet Hosts -- Communication Layers](https://tools.ietf.org/html/rfc1122) |
+| 1989 | 1123 |      |      | [Requirements for Internet Hosts -- Application and Support](https://tools.ietf.org/html/rfc1123) |
+| 1991 | 1241 |      |      | [A Scheme for an Internet Encapsulation Protocol: Version 1](https://tools.ietf.org/html/rfc1341) |
+| 2000 | 2781 |      |      | [UTF-16, an encoding of ISO 10646](https://tools.ietf.org/html/rfc2781) |
+| 2001 | 5424 | 3164 | 2009 | [The Syslog Protocol](https://tools.ietf.org/html/rfc5424) |
+| 1991 | 3896 | 2496 | 2004 | [Definitions of Managed Objects for the DS3/E3 Interface Type](https://tools.ietf.org/html/rfc3896) |
+| 2015 | 7498 |      |      | [Problem Statement for Service Function Chaining](https://tools.ietf.org/html/rfc7498) |
+
+## Web Standards
+
+| Orig | RFC  | Obs. | Updt | Description                                      |
+|:----:|-----:|-----:|:----:|:-------------------------------------------------|
+| 1997 | 6265 | 2965 | 2011 | [HTTP State Management Mechanism (cookies)](https://tools.ietf.org/html/rfc6265) |
+
 ## Email Standards
 
 ### Protocols
@@ -52,32 +81,3 @@
 | 3463 |      | 1996 |      | [Enhanced Mail System Status Codes](https://tools.ietf.org/html/rfc3463) |
 | 5248 |      | 1996 |      | [A Registry for SMTP Enhanced Mail System Status Codes](https://tools.ietf.org/html/rfc5248) |
 | 6186 |      | 1988 | 2011 | [Use of SRV Records for Locating Email Submission/Access Services](https://tools.ietf.org/html/rfc6186) |
-
-## Web Standards
-
-| Orig | RFC  | Obs. | Updt | Description                                      |
-|:----:|-----:|-----:|:----:|:-------------------------------------------------|
-| 1997 | 6265 | 2965 | 2011 | [HTTP State Management Mechanism (cookies)](https://tools.ietf.org/html/rfc6265) |
-
-## Internet Standards
-
-| Orig | RFC  | Obs. | Updt | Description                                      |
-|:----:|-----:|-----:|:----:|:-------------------------------------------------|
-| 1981 |  791 |      |      | [Internet Protocol](https://tools.ietf.org/html/rfc791) |
-| 1981 | 3232 | 1700 | 2002 | [Assigned Numbers: RFC 1700 is Replaced by an On-line Database](https://tools.ietf.org/html/rfc3232) |
-| 1991 | 1180 |      |      | [A TCP/IP Tutorial](https://tools.ietf.org/html/rfc1180)
-| 1995 | 8200 | 2460 | 2017 | [Internet Protocol, Version 6 (IPv6) Specification](https://tools.ietf.org/html/rfc8200)
-| 1996 | 1918 |      |      | [Address Allocation for Private Internets](https://tools.ietf.org/html/rfc1918) |
-| 2005 | 4193 |      |      | [Unique Local IPv6 Unicast Addresses](https://tools.ietf.org/html/rfc4193) |
-| 2006 | 4291 |      |      | [IP Version 6 Addressing Architecture](https://tools.ietf.org/html/rfc4291) |
-| 2012 | 6598 |      |      | [IANA-Reserved IPv4 Prefix for Shared Address Space](https://tools.ietf.org/html/rfc6598) |
-
-| Orig | RFC  | Obs. | Updt | Description                                      |
-|:----:|-----:|-----:|:----:|:-------------------------------------------------|
-| 1989 | 1122 |      |      | [Requirements for Internet Hosts -- Communication Layers](https://tools.ietf.org/html/rfc1122) |
-| 1989 | 1123 |      |      | [Requirements for Internet Hosts -- Application and Support](https://tools.ietf.org/html/rfc1123) |
-| 1991 | 1241 |      |      | [A Scheme for an Internet Encapsulation Protocol: Version 1](https://tools.ietf.org/html/rfc1341) |
-| 2000 | 2781 |      |      | [UTF-16, an encoding of ISO 10646](https://tools.ietf.org/html/rfc2781) |
-| 2001 | 5424 | 3164 | 2009 | [The Syslog Protocol](https://tools.ietf.org/html/rfc5424) |
-| 1991 | 3896 | 2496 | 2004 | [Definitions of Managed Objects for the DS3/E3 Interface Type](https://tools.ietf.org/html/rfc3896) |
-| 2015 | 7498 |      |      | [Problem Statement for Service Function Chaining](https://tools.ietf.org/html/rfc7498) |
