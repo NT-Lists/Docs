@@ -22,6 +22,7 @@
 | Heroku                        | https://status.heroku.com                                 |
 | KeyCDN                        | https://status.keycdn.com                                 |
 | Let's Encrypt                 | https://letsencrypt.status.io                             |
+| Logitech                      | https://status.logitech.com                               |
 | Microsoft 365                 | https://portal.office.com/servicestatus                   |
 | Microsoft Azure               | https://status.azure.com                                  |
 | Playstation Network           | https://status.playstation.com                            |
