@@ -50,6 +50,8 @@
 
 **IANAD**: I Am Not A Doctor.
 
+**ICYMI**: In Case You Missed It.
+
 **IANAL**: I Am Not A Lawyer.
 
 **IIRC**: If I Recall Correctly.
