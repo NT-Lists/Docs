@@ -30,6 +30,7 @@
 | Rackspace                     | https://rackspace.service-now.com/system_status           |
 | Reddit                        | https://www.redditstatus.com                              |
 | Salesforce                    | https://status.salesforce.com                             |
+| Signal                        | https://status.signal.org                                 |
 | Slack                         | https://status.slack.com                                  |
 | Symantec                      | https://status.symantec.com                               |
 | Synology                      | https://www.synology.com/support/synology_service         |
