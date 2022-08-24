@@ -1,8 +1,8 @@
 # Jargon File
 
-**AFAICT**: As Far As I Can Tell
-
 **AFAICR**: As Far As I Can Recall
+
+**AFAICT**: As Far As I Can Tell
 
 **AFAIK**: As Far As I Know - meaning to the best of your knowledge
 
@@ -36,29 +36,31 @@
 
 **GTFO**: Get The F-ck Out
 
-**HAND**: Have A Nice Day!
+**H/T**: See, "Hat-tip"
 
-**Hat-tip**: A reference to or gives kudos to were the source of information originally came from
+**HAND**: Have A Nice Day!
 
 **HMB**: Hold My Beer - meaning that the person is probably going to try something knowingly foolish or troublesome
 
-**H/T**: See, "Hat-tip"
-
 **HTH**: Hope This Helps
+
+**Hat-tip**: A reference to or gives kudos to were the source of information originally came from
 
 **Hugged to Death**: A website or service that is inaccessible due to overwhelming traffic coming from a wave of current interest
 
 **IANAD**: I Am Not A Doctor
 
+**IANAL**: I Am Not A Lawyer
+
 **ICYMI**: In Case You Missed It
 
-**IANAL**: I Am Not A Lawyer
+**ICYMI**: In Case You Missed It
 
 **IIRC**: If I Recall Correctly
 
 **IMO**, **IMHO**, **IMNSHO**: In My Opinion, In My Humble/Honest Opinion, and In My Not So Humble Opinion
 
-**ICYMI**: In Case You Missed It
+**IOW**: In Other Words
 
 **IRL**: In Real Life - meaning how something actually works in practice as apposed to theorized on paper
 
@@ -88,11 +90,9 @@
 
 **PSA**: Public Service Announcement
 
-**Repost**: is content that has already been posted or submitted
-
 **RTM** or **RTFM**: Read The Manual or Read The F-cking Manual
 
-**Slashdotted**: See, "Hugged to Death"
+**Repost**: is content that has already been posted or submitted
 
 **SMH**: Shaking My Head
 
@@ -101,6 +101,8 @@
 **SO**: Significant Other
 
 **STFW**: Search The F-cking Web
+
+**Slashdotted**: See, "Hugged to Death"
 
 **TARFU**: Things Are Really F-cked Up
 
@@ -120,8 +122,8 @@
 
 **ಠ_ಠ** is an emoticon that indicates disapproval
 
+**-`ღ´-** is an emoticon that indicates lots of love
+
 **/S**: Sarcasm - meaning that the associated statements are meant to be sarcastic - just in-case that isn't clear to the reader
 
 **/Thread**: End-Thread - meaning that this should be the end of a reply thread. That nothing else can be added to improve upon or top what has already been said
-
-**-`ღ´-** is an emoticon that indicates lots of love
