@@ -25,6 +25,8 @@ This document lists current Request For Comments along with the original RFCs fo
 
 ### Supplemental
 
+| Curr | Orig | Date | Updt | Description |
+|-----:|-----:|:----:|:----:|:------------------------------------------------|
 | 1122 |      | 1989 |      | [Requirements for Internet Hosts -- Communication Layers](https://www.rfc-editor.org/rfc/rfc1122.html) |
 | 1123 |      | 1989 |      | [Requirements for Internet Hosts -- Application and Support](https://www.rfc-editor.org/rfc/rfc1123.html) |
 | 3896 | 1233 | 1991 | 2004 | [Definitions of Managed Objects for the DS3/E3 Interface Type](https://www.rfc-editor.org/rfc/rfc3896.html) ℹ |
