@@ -3,23 +3,22 @@
 ## Code Playgrounds
 
 | Usage                                     | Name                                     | Link
-|:---------------------------|:----------------------------|:----------------------------
-| JSON tester                | JQ Play                     | <http://jqplay.org/>
-| Regex tester               | Regular Expressions 101     | <https://regex101.com/>
+|:----------------------------|:----------------------------|:----------------------------
+| JSON tester                 | JQ Play                     | <http://jqplay.org/>
+| Regex tester                | Regular Expressions 101     | <https://regex101.com/>
 
 ## Linters
 
 | Usage                                     | Name                                     | Link
-|:---------------------------|:----------------------------|:----------------------------
-| Bash shell                 | ShellCheck                  | <http://www.shellcheck.net/>
+|:----------------------------|:----------------------------|:----------------------------
+| Bash shell                  | ShellCheck                  | <http://www.shellcheck.net/>
 
 ## Password Related Tools
 
 | Usage                                     | Name                                     | Link
-|:---------------------------|:----------------------------|:----------------------------
-| Google one-time passwords  | Google App Passwords        | <https://myaccount.google.com/apppasswords>
-| Google password checker    | Google Password Manager     | <https://passwords.google.com/>
-| Stolen password checker    | ';--Have I Been Pwned?      | <https://myaccount.google.com/apppasswords>
-| Password strength tester   | UIC Password strength test  | <https://www.uic.edu/apps/strong-password>
-
-
+|:----------------------------|:----------------------------|:----------------------------
+| Google one-time passwords   | Google App Passwords        | <https://myaccount.google.com/apppasswords>
+| Google password checker     | Google Password Manager     | <https://passwords.google.com/>
+| Stolen password checker     | ';--Have I Been Pwned?      | <https://myaccount.google.com/apppasswords>
+| Password strength test      | UIC Password strength test  | <https://www.uic.edu/apps/strong-password>
+| Password strength estimator | 'zxcvbn' strength estimator | <https://lowe.github.io/tryzxcvbn>
