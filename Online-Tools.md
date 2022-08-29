@@ -1,15 +1,25 @@
 # Online Tools
 
-### Code Playgrounds
+## Code Playgrounds
 
-| Usage                      | Name                        | Link                        |
-|:---------------------------|:----------------------------|:----------------------------|
-| JSON                       | JQ Play                     | http://jqplay.org/          |
-| Regular expressions        | Regular Expressions 101     | https://regex101.com/       |
+| Usage                                     | Name                                     | Link
+|:---------------------------|:----------------------------|:----------------------------
+| JSON tester                | JQ Play                     | <http://jqplay.org/>
+| Regex tester               | Regular Expressions 101     | <https://regex101.com/>
+
+## Linters
+
+| Usage                                     | Name                                     | Link
+|:---------------------------|:----------------------------|:----------------------------
+| Bash shell                 | ShellCheck                  | <http://www.shellcheck.net/>
+
+## Password Related Tools
+
+| Usage                                     | Name                                     | Link
+|:---------------------------|:----------------------------|:----------------------------
+| Google one-time passwords  | Google App Passwords        | <https://myaccount.google.com/apppasswords>
+| Google password checker    | Google Password Manager     | <https://passwords.google.com/>
+| Stolen password checker    | ';--Have I Been Pwned?      | <https://myaccount.google.com/apppasswords>
+| Password strength tester   | UIC Password strength test  | <https://www.uic.edu/apps/strong-password>
 
 
-### Linters
-
-| Usage                      | Name                        | Link                        |
-|:---------------------------|:----------------------------|:----------------------------|
-| Bash shell                 | ShellCheck                  | http://www.shellcheck.net/  |
