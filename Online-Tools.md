@@ -4,6 +4,7 @@
 
 | Usage                                     | Name                                     | Link
 |:----------------------------|:----------------------------|:----------------------------
+| crontab schedule tester     | Cronitor crontab guru       | <https://crontab.guru>
 | JSON tester                 | JQ Play                     | <http://jqplay.org/>
 | Regex tester                | Regular Expressions 101     | <https://regex101.com/>
 
