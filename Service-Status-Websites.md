@@ -17,8 +17,9 @@
 | Discord                       | https://status.discordapp.com                             |
 | Dropbox                       | https://status.dropbox.com                                |
 | GitHub                        | https://www.githubstatus.com                              |
+| Google Ads Status             | https://ads.google.com/status                             |
 | Google Cloud                  | https://status.cloud.google.com                           |
-| Google G Suite                | https://www.google.com/appsstatus                         |
+| Google Workspace              | https://www.google.com/appsstatus                         |
 | Heroku                        | https://status.heroku.com                                 |
 | KeyCDN                        | https://status.keycdn.com                                 |
 | Let's Encrypt                 | https://letsencrypt.status.io                             |
