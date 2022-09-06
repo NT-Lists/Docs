@@ -97,3 +97,4 @@ This document lists current Request For Comments along with the original RFCs fo
 | 3463 | 1893 | 1996 | 2003 | [Enhanced Mail System Status Codes](https://www.rfc-editor.org/rfc/rfc3463.html) |
 | 5248 | 1893 | 1996 | 2008 | [A Registry for SMTP Enhanced Mail System Status Codes](https://www.rfc-editor.org/rfc/rfc5248.html) 🥼 |
 | 6186 |      | 2011 |      | [Use of SRV Records for Locating Email Submission/Access Services](https://www.rfc-editor.org/rfc/rfc6186.html) |
+| 8058 |      | 2017 |      | [Signaling One-Click Functionality for List Email Headers](https://www.rfc-editor.org/rfc/rfc8058.html) |
