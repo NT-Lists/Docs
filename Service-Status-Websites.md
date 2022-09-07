@@ -13,6 +13,7 @@
 | Cisco Umbrella                | https://status.umbrella.com                               |
 | Citrix Cloud                  | https://status.cloud.com                                  |
 | Cloudflare                    | https://www.cloudflarestatus.com                          |
+| Constant Contact              | https://status.constantcontact.com                        |
 | DigitalOcean                  | https://status.digitalocean.com                           |
 | Discord                       | https://status.discordapp.com                             |
 | Dropbox                       | https://status.dropbox.com                                |
@@ -31,6 +32,7 @@
 | Rackspace                     | https://rackspace.service-now.com/system_status           |
 | Reddit                        | https://www.redditstatus.com                              |
 | Salesforce                    | https://status.salesforce.com                             |
+| SendGrid                      | https://status.sendgrid.com                               |
 | Signal                        | https://status.signal.org                                 |
 | Slack                         | https://status.slack.com                                  |
 | Symantec                      | https://status.symantec.com                               |
