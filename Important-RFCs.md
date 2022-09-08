@@ -36,6 +36,7 @@ This document lists current Request For Comments along with the original RFCs fo
 | 2781 |      | 2000 |      | [UTF-16, an encoding of ISO 10646](https://www.rfc-editor.org/rfc/rfc2781.html) |
 | 5424 | 3164 | 2001 | 2009 | [The Syslog Protocol](https://www.rfc-editor.org/rfc/rfc5424.html) ℹ |
 | 6762 |      | 2013 |      | [Multicast DNS](https://www.rfc-editor.org/rfc/rfc6762.html) |
+| 6763 |      | 2013 |      | [DNS-Based Service Discovery](https://www.rfc-editor.org/rfc/rfc6763.html) |
 | 7498 |      | 2015 |      | [Problem Statement for Service Function Chaining](https://www.rfc-editor.org/rfc/rfc7498.html) ℹ |
 
 ## Web Standards
