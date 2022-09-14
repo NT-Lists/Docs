@@ -53,8 +53,8 @@
 | Name                          | Link                                                      |
 |:------------------------------|:----------------------------------------------------------|
 | Solarwinds Pingdom (💲)       | https://www.pingdom.com                                   |
-| Uptime Robot (💲☸)            | https://uptimerobot.com                                   |
+| Uptime Robot (💲🔓)            | https://uptimerobot.com                                   |
 
 💲 = Subscription fee-based service
 
-☸ = Free services available
+🔓 = Free services available
