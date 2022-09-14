@@ -35,6 +35,7 @@ This document lists current Request For Comments along with the original RFCs fo
 | 2606 |      | 1999 |      | [Reserved Top Level DNS Names](https://www.rfc-editor.org/rfc/rfc2606.html) |
 | 2781 |      | 2000 |      | [UTF-16, an encoding of ISO 10646](https://www.rfc-editor.org/rfc/rfc2781.html) |
 | 5424 | 3164 | 2001 | 2009 | [The Syslog Protocol](https://www.rfc-editor.org/rfc/rfc5424.html) ℹ |
+| 3339 |      | 2002 |      | [Date and Time on the Internet: Timestamps](https://www.rfc-editor.org/rfc/rfc3339.html) |
 | 3986 |      | 2005 |      | [Uniform Resource Identifier (URI): Generic Syntax](https://www.rfc-editor.org/rfc/rfc3986.html) |
 | 6762 |      | 2013 |      | [Multicast DNS](https://www.rfc-editor.org/rfc/rfc6762.html) |
 | 6763 |      | 2013 |      | [DNS-Based Service Discovery](https://www.rfc-editor.org/rfc/rfc6763.html) |
