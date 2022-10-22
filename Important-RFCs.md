@@ -40,6 +40,7 @@ This document lists current Request For Comments along with the original RFCs fo
 | 6762 |      | 2013 |      | [Multicast DNS](https://www.rfc-editor.org/rfc/rfc6762.html) |
 | 6763 |      | 2013 |      | [DNS-Based Service Discovery](https://www.rfc-editor.org/rfc/rfc6763.html) |
 | 7498 |      | 2015 |      | [Problem Statement for Service Function Chaining](https://www.rfc-editor.org/rfc/rfc7498.html) ℹ |
+| 8375 |      | 2018 |      | [Special-Use Domain 'home.arpa.'](https://www.rfc-editor.org/rfc/rfc8375.html) |
 
 ## Web Standards
 
