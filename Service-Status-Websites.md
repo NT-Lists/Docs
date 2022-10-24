@@ -35,6 +35,7 @@
 | SendGrid                      | https://status.sendgrid.com                               |
 | Signal                        | https://status.signal.org                                 |
 | Slack                         | https://status.slack.com                                  |
+| SponsorBlock                  | https://status.sponsor.ajay.app                           |
 | Symantec                      | https://status.symantec.com                               |
 | Synology                      | https://www.synology.com/support/synology_service         |
 | Webroot                       | https://status.webroot.com                                |
