@@ -64,6 +64,8 @@
 
 **IRL**: In Real Life - meaning how something actually works in practice as apposed to theorized on paper
 
+**IYKYK**: If You Know, You Know - meaning that it doesnt need to be explained if it relates to you, otherwise it likely doesn't
+
 **J** represents the smiley face emoticon emoji in the Wingdings font family. If you don't have Wingdings installed, or the font formatting is otherwise lost, a capital J will be present in the text
 
 **J/K**: Just Kidding or otherwise joking
