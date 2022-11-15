@@ -41,6 +41,7 @@ This document lists current Request For Comments along with the original RFCs fo
 | 6763 |      | 2013 |      | [DNS-Based Service Discovery](https://www.rfc-editor.org/rfc/rfc6763.html) |
 | 7498 |      | 2015 |      | [Problem Statement for Service Function Chaining](https://www.rfc-editor.org/rfc/rfc7498.html) ℹ |
 | 8375 |      | 2018 |      | [Special-Use Domain 'home.arpa.'](https://www.rfc-editor.org/rfc/rfc8375.html) |
+| 8767 |      | 2020 |      | [Serving Stale Data to Improve DNS Resiliency](https://www.rfc-editor.org/rfc/rfc8767.html) |
 
 ## Web Standards
 
