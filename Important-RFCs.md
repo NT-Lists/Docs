@@ -37,6 +37,7 @@ This document lists current Request For Comments along with the original RFCs fo
 | 5424 | 3164 | 2001 | 2009 | [The Syslog Protocol](https://www.rfc-editor.org/rfc/rfc5424.html) ℹ |
 | 3339 |      | 2002 |      | [Date and Time on the Internet: Timestamps](https://www.rfc-editor.org/rfc/rfc3339.html) |
 | 3986 |      | 2005 |      | [Uniform Resource Identifier (URI): Generic Syntax](https://www.rfc-editor.org/rfc/rfc3986.html) |
+| 6303 |      | 2011 |      | [Locally Served DNS Zones](https://www.rfc-editor.org/rfc/rfc6303.html) |
 | 6761 |      | 2013 |      | [Special-Use Domain Names](https://www.rfc-editor.org/rfc/rfc6761.html) |
 | 6762 |      | 2013 |      | [Multicast DNS](https://www.rfc-editor.org/rfc/rfc6762.html) |
 | 6763 |      | 2013 |      | [DNS-Based Service Discovery](https://www.rfc-editor.org/rfc/rfc6763.html) |
