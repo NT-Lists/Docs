@@ -1,4 +1,4 @@
-# Jargon File
+# **Jargon File**
 
 **AFAICR**: As Far As I Can Recall
 
@@ -40,6 +40,8 @@
 
 **HAND**: Have A Nice Day!
 
+**HITL**: Human In The Loop - meaning that whenever possible, keep a human perspective and approval for any output performed by automation
+
 **HMB**: Hold My Beer - meaning that the person is probably going to try something knowingly foolish or troublesome
 
 **HTH**: Hope This Helps
@@ -64,11 +66,15 @@
 
 **IRL**: In Real Life - meaning how something actually works in practice as apposed to theorized on paper
 
-**IYKYK**: If You Know, You Know - meaning that it doesnt need to be explained if it relates to you, otherwise it likely doesn't
+**IYKYK**: If You Know, You Know - meaning that it doesn't need to be explained if it relates to you, otherwise it likely doesn't
 
 **J** represents the smiley face emoticon emoji in the Wingdings font family. If you don't have Wingdings installed, or the font formatting is otherwise lost, a capital J will be present in the text
 
 **J/K**: Just Kidding or otherwise joking
+
+**KYS**: Kill Your Self - a common insult amongst irate online gamers
+
+**KYS**: Know Your Customer - meaning that access to your services should require a registration and preferably a login of some sort
 
 **LOL**: Laugh Out Loud
 
@@ -116,7 +122,7 @@
 
 **WIP**: Work In Progress
 
-**X-Post**: Cross-Post - meaning a repost of something previously posted on a different list or community
+**X-Post**: Cross-Post - meaning a repost of something currently and actively posted on a different list or community for additional exposure
 
 **YMMV**: Your Mileage May Vary
 
