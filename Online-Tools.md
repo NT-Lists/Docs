@@ -14,6 +14,13 @@
 |:----------------------------|:----------------------------|:----------------------------
 | Bash shell                  | ShellCheck                  | <http://www.shellcheck.net/>
 
+## Multifunction Tool Sites
+
+| Usage                                     | Name                                     | Link
+|:----------------------------|:----------------------------|:----------------------------
+| Free online network tools   | CentralOps                  | <https://centralops.net/>
+| Handy Tools for Developers  | IT-Tools                    | <https://it-tools.tech/>
+
 ## Password Related Tools
 
 | Usage                                     | Name                                     | Link
