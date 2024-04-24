@@ -40,6 +40,7 @@
 | Symantec                      | <https://status.symantec.com>                               |
 | Synology                      | <https://www.synology.com/support/synology_service>         |
 | Webroot                       | <https://status.webroot.com>                                |
+| Wyze                          | <https://support.wyze.com/hc/en-us/articles/360015979872-Service-Status-Known-Issues> |
 | Xbox Live                     | <https://support.xbox.com/xbox-live-status>                 |
 
 ### Public Monitoring/Checking Services
