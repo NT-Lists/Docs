@@ -4,9 +4,11 @@ This document lists current Request For Comments along with the original RFCs fo
 
 **Categories:**
 
-* 🧪 = Experimental
-* 🥼 = Best Current Practice
-* ℹ = Informational
+* 🥼 = [Best Current Practice](https://datatracker.ietf.org/doc/html/rfc2026#section-5)
+* 🧪 = [Experimental](https://datatracker.ietf.org/doc/html/rfc2026#section-4.2.1)
+* ℹ = [Informational](https://datatracker.ietf.org/doc/html/rfc2026#section-4.2.2)
+* ✅ = [Internet Standard](https://datatracker.ietf.org/doc/html/rfc2026#section-4.1.3)
+* ☑ = [Proposed](https://datatracker.ietf.org/doc/html/rfc2026#section-4.1.1) or [Draft](https://datatracker.ietf.org/doc/html/rfc2026#section-4.1.2) Standard
 
 ## Internet Standards
 
