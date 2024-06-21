@@ -56,8 +56,6 @@
 
 **ICYMI**: In Case You Missed It
 
-**ICYMI**: In Case You Missed It
-
 **IIRC**: If I Recall Correctly
 
 **IMO**, **IMHO**, **IMNSHO**: In My Opinion, In My Humble/Honest Opinion, and In My Not So Humble Opinion
@@ -72,9 +70,9 @@
 
 **J/K**: Just Kidding or otherwise joking
 
-**KYS**: Kill Your Self - a common insult amongst irate online gamers
+**KYC**: Know Your Customer - meaning that access to your services should require a registration and preferably a login of some sort
 
-**KYS**: Know Your Customer - meaning that access to your services should require a registration and preferably a login of some sort
+**KYS**: Kill Your Self - a common insult amongst irate online communications
 
 **LOL**: Laugh Out Loud
 
