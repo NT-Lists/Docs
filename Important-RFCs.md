@@ -81,7 +81,7 @@ This document lists current Request For Comments along with the original RFCs fo
 | 6838 | 1341 | 1992 | 2013 | [MIME: Media Type Specifications and Registration Procedures](https://datatracker.ietf.org/doc/html/rfc6838) |
 | 2231 | 2184 | 1997 | 1997 | [MIME: Character Sets, Languages, and Continuations](https://datatracker.ietf.org/doc/html/rfc2231) |
 
-## Connection Security
+### Connection Security
 
 | Curr | Orig | Date | Updt | Description |
 |-----:|-----:|:----:|:----:|:------------------------------------------------|
@@ -93,7 +93,7 @@ This document lists current Request For Comments along with the original RFCs fo
 | 8461 |      | 2018 |      | [SMTP MTA Strict Transport Security (MTA-STS)](https://datatracker.ietf.org/doc/html/rfc8461) |
 | 8617 |      | 2019 |      | [The Authenticated Received Chain (ARC) Protocol](https://datatracker.ietf.org/doc/html/rfc8617) |
 
-## Content Filtering
+### Content Filtering
 
 | Curr | Orig | Date | Updt | Description |
 |-----:|-----:|:----:|:----:|:------------------------------------------------|
@@ -101,7 +101,7 @@ This document lists current Request For Comments along with the original RFCs fo
 | 5233 | 3598 | 2003 | 2008 | [Sieve Email Filtering: Subaddress Extension](https://datatracker.ietf.org/doc/html/rfc5233) |
 | 5436 | 3834 | 2004 | 2009 | [Sieve Notification Mechanism: mailto](https://datatracker.ietf.org/doc/html/rfc5436) |
 
-## Miscellaneous
+### Miscellaneous
 
 | Curr | Orig | Date | Updt | Description |
 |-----:|-----:|:----:|:----:|:------------------------------------------------|
