@@ -120,7 +120,7 @@
 
 **TIL**: Today I Learned
 
-**TL;DR**: Too Long; Didn't Read. Sometimes used as a synonym for summary
+**TL;DR**: Too Long; Didn't Read - sometimes used as a synonym for summary
 
 **WIP**: Work In Progress
 
