@@ -74,6 +74,10 @@
 
 **KYS**: Kill Your Self - a common insult amongst irate online communications
 
+**LGTM**: Looks Good To Me - a common reply when reviewing documents and code
+
+**LMK**: Let Me Know
+
 **LOL**: Laugh Out Loud
 
 **Lurker** is a user who reads posted content but rarely or never makes public posts or replies
