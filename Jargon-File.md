@@ -206,7 +206,7 @@
 
 #### **Repost**
 
- > This content that has already been posted or submitted
+ > Content that has already been posted or submitted
 
 #### **SMH**
 
@@ -243,6 +243,10 @@
 #### **TL;DR**
 
  > Too Long; Didn't Read - sometimes used as a synonym for summary
+
+#### **TWSS**
+
+ > That's What She Said
 
 #### **WIP**
 
