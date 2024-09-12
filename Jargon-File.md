@@ -94,7 +94,7 @@
 
 #### **Hat-tip**
 
- > A reference to or gives kudos to were the source of information originally came from
+ > A reference to or gives kudos to where the source of information originally came from
 
 #### **Hugged to Death**
 
