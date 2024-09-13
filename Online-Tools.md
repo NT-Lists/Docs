@@ -1,4 +1,4 @@
-# Online Tools
+# Online Tools and Resources
 
 ## Code Playgrounds
 
@@ -30,3 +30,9 @@
 | Stolen password checker     | ';--Have I Been Pwned?      | <https://haveibeenpwned.com/>
 | Password strength test      | UIC Password strength test  | <https://www.uic.edu/apps/strong-password>
 | Password strength estimator | 'zxcvbn' strength estimator | <https://lowe.github.io/tryzxcvbn>
+
+## Style Guides
+
+| Usage                                     | Name                                     | Link
+|:----------------------------|:----------------------------|:----------------------------
+| Coding style guides   | Google Style Guides        | <https://google.github.io/styleguide/>
