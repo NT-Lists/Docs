@@ -24,7 +24,7 @@
 
  > Comments and Criticism Welcome or Constructive Criticism Welcome - meaning an invitation to critique the persons work for improvement purposes
 
-#### **CMM** and **CMV**
+#### **CMM** or **CMV**
 
  > Change My Mind or Change My View - meaning an invitation to convince the person that they are wrong or perhaps there is a better way
 
@@ -116,9 +116,9 @@
 
  > If I Recall Correctly
 
-#### **IMO**, **IMHO**, **IMNSHO**
+#### **IMO**, **IMHO**, or **IMNSHO**
 
- > In My Opinion, In My Humble/Honest Opinion, and In My Not So Humble Opinion
+ > In My Opinion, In My Humble/Honest Opinion, or In My Not So Humble Opinion
 
 #### **IOW**
 
