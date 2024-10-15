@@ -144,6 +144,10 @@
 
  > Just Kidding or otherwise joking
 
+#### **JFYI**
+
+ > Just For Your Information
+
 #### **KYC**
 
  > Know Your Customer - meaning that access to your services should require a registration and preferably a login of some sort
