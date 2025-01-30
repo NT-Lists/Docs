@@ -14,6 +14,7 @@
 | Citrix Cloud                  | <https://status.cloud.com>                                  |
 | Cloudflare                    | <https://www.cloudflarestatus.com>                          |
 | Constant Contact              | <https://status.constantcontact.com>                        |
+| DeepSeek                      | <https://status.deepseek.com>                               |
 | DigitalOcean                  | <https://status.digitalocean.com>                           |
 | Discord                       | <https://status.discordapp.com>                             |
 | Dropbox                       | <https://status.dropbox.com>                                |
