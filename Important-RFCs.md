@@ -24,7 +24,7 @@ This document lists current Request For Comments along with the original RFCs fo
 | 6890 | 3330 | 2002 | 2013 | [Special-Purpose IP Address Registries](https://datatracker.ietf.org/doc/html/rfc6890) 🥼 |
 | 4193 |      | 2005 |      | [Unique Local IPv6 Unicast Addresses](https://datatracker.ietf.org/doc/html/rfc4193) ☑ |
 | 4291 |      | 2006 |      | [IP Version 6 Addressing Architecture](https://datatracker.ietf.org/doc/html/rfc4291) ☑ |
-| 6598 |      | 2012 |      | [IANA-Reserved IPv4 Prefix for Shared Address Space](https://datatracker.ietf.org/doc/html/rfc6598) 🥼 |
+| 6598 | 3330 | 2002 | 2012 | [IANA-Reserved IPv4 Prefix for Shared Address Space](https://datatracker.ietf.org/doc/html/rfc6598) 🥼 |
 
 ### Supplemental Internet
 
