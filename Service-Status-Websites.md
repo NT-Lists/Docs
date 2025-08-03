@@ -21,6 +21,7 @@
 | GitHub                        | <https://www.githubstatus.com>                              |
 | Google Ads Status             | <https://ads.google.com/status>                             |
 | Google Cloud                  | <https://status.cloud.google.com>                           |
+| Google Nest                   | <https://status.nest.com/posts/dashboard>                   |
 | Google Workspace              | <https://www.google.com/appsstatus>                         |
 | Heroku                        | <https://status.heroku.com>                                 |
 | KeyCDN                        | <https://status.keycdn.com>                                 |
