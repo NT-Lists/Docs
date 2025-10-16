@@ -53,6 +53,7 @@
 | Down for Everyone or Just Me  | <https://downforeveryoneorjustme.com>                       |
 | Downdetector                  | <https://downdetector.com/companies>                        |
 | Internet Traffic Report       | <http://internettrafficreport.com>                          |
+| StatusGator                   | <https://statusgator.com/>                                  |
 
 ### Private Monitoring/Checking Services
 
