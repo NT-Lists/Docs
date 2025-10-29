@@ -62,6 +62,11 @@
 | Solarwinds Pingdom (💲)      | <https://www.pingdom.com>                                   |
 | Uptime Robot (💲🔓)          | <https://uptimerobot.com>                                   |
 
-💲 = Subscription fee-based service
-
+💲 = Subscription fee-based service  
 🔓 = Free services available
+
+### End Of Life (EOL) Tracking Services
+
+| Name                                       | Link
+|:------------------------------|:------------------------------------------------------------|
+| endoflife.date                | <https://endoflife.date>                                    |
