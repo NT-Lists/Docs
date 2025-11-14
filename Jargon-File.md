@@ -32,6 +32,10 @@
 
 > This the anniversary of the day a user signed-up for or otherwise joined a service
 
+#### **CFBR**
+
+ > Commenting For Better Reach - meaning a strategy where users leave comments on posts to increase the post's visibility through the platform's algorithm
+
 #### **DAE**
 
  > Does Anyone Else - meaning a question to see if other people agree
