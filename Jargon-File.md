@@ -24,10 +24,6 @@
 
  > Comments and Criticism Welcome or Constructive Criticism Welcome - meaning an invitation to critique the persons work for improvement purposes
 
-#### **CMM** or **CMV**
-
- > Change My Mind or Change My View - meaning an invitation to convince the person that they are wrong or perhaps there is a better way
-
 #### **Cake Day**
 
 > This the anniversary of the day a user signed-up for or otherwise joined a service
@@ -35,6 +31,10 @@
 #### **CFBR**
 
  > Commenting For Better Reach - meaning a strategy where users leave comments on posts to increase the post's visibility through the platform's algorithm
+
+#### **CMM** or **CMV**
+
+ > Change My Mind or Change My View - meaning an invitation to convince the person that they are wrong or perhaps there is a better way
 
 #### **DAE**
 
