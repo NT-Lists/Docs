@@ -20,13 +20,13 @@
 
  > [Bastard Operator From Hell](http://www.bofharchive.com/)
 
-#### **CCW**
-
- > Comments and Criticism Welcome or Constructive Criticism Welcome - meaning an invitation to critique the persons work for improvement purposes
-
 #### **Cake Day**
 
 > This the anniversary of the day a user signed-up for or otherwise joined a service
+
+#### **CCW**
+
+ > Comments and Criticism Welcome or Constructive Criticism Welcome - meaning an invitation to critique the persons work for improvement purposes
 
 #### **CFBR**
 
