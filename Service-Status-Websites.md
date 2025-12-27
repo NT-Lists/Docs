@@ -30,6 +30,7 @@
 | Microsoft 365                 | <https://portal.office.com/servicestatus>                   |
 | Microsoft Azure               | <https://status.azure.com>                                  |
 | Playstation Network           | <https://status.playstation.com>                            |
+| Ookla                         | <https://status.ookla.com>                                  |
 | OpenAI                        | <https://status.openai.com>                                 |
 | Plex                          | <https://status.plex.tv>                                    |
 | Rackspace                     | <https://rackspace.service-now.com/system_status>           |
